@@ -1,0 +1,10 @@
+function Tracker() {
+  return (
+    <div>
+      <h1>Calorie Tracker</h1>
+      <p>Add foods and track your daily calories.</p>
+    </div>
+  );
+}
+
+export default Tracker;
